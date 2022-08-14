@@ -1,2 +1,2 @@
 # sallurday_final_project
- Cloud Computing Final Project
+Contains a series of screenshots showing the AWS services that I setup to complete Mtich Shue's Final Cloud Computing Project.
